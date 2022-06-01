@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niwani
+- 👋 Hi, I’m Eniola Adio
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on web development projects
