@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Eniola Adio (Niwani)
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Eniola Ibiwoye (Niwani)
+- 👀 I’m a web developer
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 I cn be contacted via mail
+- 📫 I can be contacted via mail
 
 <!---
 Niwani/Niwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
